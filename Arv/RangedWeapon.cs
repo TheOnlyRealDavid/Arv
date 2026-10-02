@@ -4,6 +4,7 @@ namespace Arv;
 
 public class RangedWeapon : Weapon
 {
-    private int RealoadSpeed;
-    private int Ammo;
+    public int RealoadSpeed;
+    public int Ammo;
+
 }
